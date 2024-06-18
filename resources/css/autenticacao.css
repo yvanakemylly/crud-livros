@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.form-card {
+  border: 1px solid #F8F9FA;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 16px 32px rgb(0, 0, 0, .1);
+}
